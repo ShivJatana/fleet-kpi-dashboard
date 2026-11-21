@@ -1,0 +1,168 @@
+event_id,event_date,truck_id,event_type,category,downtime_hours,cost_cad
+M0001,2025-01-06,T21,Unplanned,Aftertreatment (DPF),12,4158
+M0002,2025-01-07,T02,Preventive,PM-A service,3.3,653
+M0003,2025-01-08,T13,Unplanned,Tires,35.5,6215
+M0004,2025-01-08,T21,Unplanned,Tires,37.5,8319
+M0005,2025-01-11,T02,Preventive,PM-A service,5,802
+M0006,2025-01-11,T23,Preventive,PM-A service,4.4,1171
+M0007,2025-01-13,T18,Preventive,PM-B service,6.4,878
+M0008,2025-01-14,T06,Unplanned,Tires,23.1,6619
+M0009,2025-01-16,T08,Preventive,Tire rotation,3.7,1179
+M0010,2025-01-17,T28,Unplanned,Tires,18.1,4147
+M0011,2025-01-22,T05,Unplanned,Brakes,18.1,5422
+M0012,2025-01-22,T25,Preventive,PM-A service,6.6,1203
+M0013,2025-01-24,T01,Preventive,PM-A service,3.1,632
+M0014,2025-01-24,T17,Unplanned,Cooling system,8.9,3455
+M0015,2025-01-25,T12,Unplanned,Engine / DEF system,22.9,4471
+M0016,2025-01-27,T23,Preventive,PM-A service,3.5,1192
+M0017,2025-01-28,T07,Unplanned,Brakes,13.1,2841
+M0018,2025-01-29,T09,Preventive,PM-A service,6.8,1155
+M0019,2025-01-29,T11,Preventive,Tire rotation,4.1,489
+M0020,2025-01-30,T28,Unplanned,Engine / DEF system,38.5,6363
+M0021,2025-01-31,T09,Unplanned,Cooling system,64.9,11106
+M0022,2025-01-31,T14,Preventive,PM-B service,3.9,673
+M0023,2025-02-01,T24,Preventive,Brake inspection,4.3,784
+M0024,2025-02-03,T12,Preventive,Brake inspection,5.4,461
+M0025,2025-02-04,T26,Preventive,PM-A service,6.1,945
+M0026,2025-02-11,T21,Unplanned,Tires,21.6,4797
+M0027,2025-02-12,T01,Preventive,PM-A service,6.5,579
+M0028,2025-02-13,T24,Unplanned,Tires,11.9,3036
+M0029,2025-02-17,T24,Preventive,PM-A service,6.5,1262
+M0030,2025-02-21,T23,Unplanned,Brakes,28.5,6985
+M0031,2025-02-24,T05,Unplanned,Electrical,18.2,5605
+M0032,2025-02-24,T28,Unplanned,Electrical,69.3,11101
+M0033,2025-02-24,T29,Unplanned,Tires,57.1,9644
+M0034,2025-02-28,T18,Preventive,PM-B service,3.5,569
+M0035,2025-03-01,T14,Unplanned,Electrical,12,5010
+M0036,2025-03-03,T28,Preventive,Brake inspection,6.3,1105
+M0037,2025-03-04,T12,Unplanned,Tires,22.9,5529
+M0038,2025-03-06,T24,Unplanned,Engine / DEF system,12.2,5081
+M0039,2025-03-07,T08,Preventive,Tire rotation,5.9,484
+M0040,2025-03-08,T12,Unplanned,Electrical,12.4,4076
+M0041,2025-03-11,T03,Unplanned,Brakes,19,5282
+M0042,2025-03-12,T03,Unplanned,Engine / DEF system,73.6,12149
+M0043,2025-03-15,T19,Preventive,PM-A service,4.8,596
+M0044,2025-03-17,T18,Unplanned,Electrical,62.8,10671
+M0045,2025-03-17,T26,Preventive,PM-A service,5.2,1066
+M0046,2025-03-19,T08,Preventive,PM-B service,5.1,588
+M0047,2025-03-20,T11,Unplanned,Aftertreatment (DPF),8.3,2835
+M0048,2025-03-21,T17,Unplanned,Tires,40.7,7443
+M0049,2025-03-21,T18,Unplanned,Brakes,32.8,5960
+M0050,2025-03-21,T19,Unplanned,Tires,10.7,4166
+M0051,2025-03-25,T23,Unplanned,Cooling system,32.2,6578
+M0052,2025-03-26,T09,Unplanned,Tires,19.4,5338
+M0053,2025-03-31,T28,Unplanned,Tires,13.1,5124
+M0054,2025-04-02,T12,Unplanned,Cooling system,15.8,5465
+M0055,2025-04-02,T20,Unplanned,Engine / DEF system,50.6,8976
+M0056,2025-04-02,T26,Unplanned,Tires,89.4,13664
+M0057,2025-04-05,T18,Unplanned,Aftertreatment (DPF),87.4,13951
+M0058,2025-04-05,T24,Unplanned,Cooling system,29.6,7343
+M0059,2025-04-07,T05,Unplanned,Tires,16.3,5477
+M0060,2025-04-09,T04,Preventive,PM-B service,6,1110
+M0061,2025-04-09,T14,Preventive,Brake inspection,3.4,1274
+M0062,2025-04-09,T15,Preventive,Brake inspection,4.3,633
+M0063,2025-04-11,T30,Preventive,Brake inspection,4.3,628
+M0064,2025-04-12,T23,Preventive,PM-A service,6.5,1183
+M0065,2025-04-15,T01,Preventive,PM-A service,6.1,674
+M0066,2025-04-16,T16,Preventive,PM-B service,5.4,467
+M0067,2025-04-17,T06,Preventive,PM-A service,5.1,738
+M0068,2025-04-17,T23,Unplanned,Brakes,67.9,12349
+M0069,2025-04-17,T24,Preventive,Tire rotation,3.3,1060
+M0070,2025-04-17,T29,Unplanned,Electrical,14.4,3503
+M0071,2025-04-21,T08,Preventive,PM-A service,6.9,840
+M0072,2025-04-21,T14,Preventive,PM-B service,5.4,1096
+M0073,2025-04-22,T22,Preventive,Brake inspection,6.2,742
+M0074,2025-04-24,T01,Preventive,Brake inspection,6.1,644
+M0075,2025-04-24,T07,Preventive,Brake inspection,5.1,503
+M0076,2025-04-26,T13,Preventive,PM-B service,5.6,739
+M0077,2025-04-30,T06,Unplanned,Tires,15.1,3744
+M0078,2025-04-30,T20,Preventive,Tire rotation,5.9,1114
+M0079,2025-04-30,T21,Preventive,PM-A service,4.3,549
+M0080,2025-05-01,T03,Preventive,Brake inspection,3.7,526
+M0081,2025-05-01,T06,Unplanned,Engine / DEF system,74.9,12515
+M0082,2025-05-01,T12,Unplanned,Tires,33.7,7566
+M0083,2025-05-02,T02,Preventive,Tire rotation,4.1,859
+M0084,2025-05-03,T20,Preventive,Brake inspection,6,1006
+M0085,2025-05-03,T29,Unplanned,Aftertreatment (DPF),25.2,4900
+M0086,2025-05-05,T14,Preventive,PM-B service,3.7,643
+M0087,2025-05-06,T23,Preventive,PM-B service,5.2,1239
+M0088,2025-05-07,T01,Preventive,Tire rotation,3.6,701
+M0089,2025-05-07,T03,Preventive,PM-A service,5.8,1104
+M0090,2025-05-07,T30,Preventive,Brake inspection,5.2,618
+M0091,2025-05-08,T03,Unplanned,Engine / DEF system,20.9,5021
+M0092,2025-05-08,T22,Preventive,Brake inspection,6.2,558
+M0093,2025-05-10,T13,Preventive,PM-A service,5.9,788
+M0094,2025-05-12,T16,Preventive,Tire rotation,3.4,1162
+M0095,2025-05-12,T24,Unplanned,Aftertreatment (DPF),10.2,4663
+M0096,2025-05-14,T19,Preventive,Tire rotation,3.8,1176
+M0097,2025-05-16,T14,Preventive,PM-A service,6.5,558
+M0098,2025-05-16,T22,Preventive,PM-B service,6.3,1147
+M0099,2025-05-16,T30,Preventive,PM-A service,6.8,592
+M0100,2025-05-17,T22,Preventive,PM-A service,5.3,591
+M0101,2025-05-17,T26,Unplanned,Engine / DEF system,30.9,6967
+M0102,2025-05-19,T23,Preventive,PM-A service,6.6,1158
+M0103,2025-05-20,T07,Preventive,Tire rotation,4.7,1084
+M0104,2025-05-20,T15,Preventive,PM-A service,3.6,589
+M0105,2025-05-21,T14,Preventive,Brake inspection,6.3,663
+M0106,2025-05-21,T15,Unplanned,Tires,16.2,5258
+M0107,2025-05-22,T11,Preventive,PM-A service,4.1,1004
+M0108,2025-05-23,T11,Unplanned,Cooling system,56.9,10148
+M0109,2025-05-23,T26,Preventive,Tire rotation,4.6,1059
+M0110,2025-05-24,T06,Unplanned,Aftertreatment (DPF),11.9,4972
+M0111,2025-05-24,T10,Unplanned,Tires,41.1,8216
+M0112,2025-05-24,T26,Unplanned,Electrical,54.8,10301
+M0113,2025-05-29,T11,Preventive,PM-A service,6,775
+M0114,2025-05-30,T03,Preventive,Tire rotation,5,868
+M0115,2025-05-31,T07,Preventive,Brake inspection,4.4,845
+M0116,2025-05-31,T08,Preventive,PM-B service,5.5,1108
+M0117,2025-05-31,T15,Preventive,Brake inspection,6.9,987
+M0118,2025-06-03,T01,Preventive,PM-B service,6,833
+M0119,2025-06-03,T06,Preventive,Tire rotation,5.8,1068
+M0120,2025-06-04,T10,Preventive,PM-A service,6.7,713
+M0121,2025-06-04,T24,Preventive,Tire rotation,6.5,1195
+M0122,2025-06-05,T05,Preventive,Tire rotation,5.1,560
+M0123,2025-06-06,T24,Preventive,Brake inspection,6.7,982
+M0124,2025-06-06,T26,Preventive,PM-A service,5.2,1332
+M0125,2025-06-07,T28,Preventive,Tire rotation,4.3,564
+M0126,2025-06-09,T01,Preventive,Tire rotation,4.1,938
+M0127,2025-06-09,T20,Preventive,Brake inspection,4.6,1122
+M0128,2025-06-10,T09,Preventive,PM-B service,5.9,461
+M0129,2025-06-10,T13,Preventive,PM-B service,3.9,1224
+M0130,2025-06-10,T24,Preventive,Brake inspection,3.6,808
+M0131,2025-06-11,T13,Preventive,PM-A service,3.5,774
+M0132,2025-06-14,T24,Preventive,PM-A service,5.1,803
+M0133,2025-06-16,T12,Unplanned,Brakes,10.7,3886
+M0134,2025-06-17,T24,Preventive,PM-B service,3.9,481
+M0135,2025-06-17,T25,Preventive,PM-A service,6.1,1091
+M0136,2025-06-19,T01,Unplanned,Tires,21.9,5988
+M0137,2025-06-19,T16,Preventive,PM-A service,4.8,651
+M0138,2025-06-21,T04,Preventive,Brake inspection,5.5,519
+M0139,2025-06-21,T06,Unplanned,Tires,9.6,3013
+M0140,2025-06-21,T11,Preventive,PM-B service,4.8,1322
+M0141,2025-06-21,T16,Preventive,Tire rotation,3.6,549
+M0142,2025-06-24,T15,Unplanned,Tires,14.8,4097
+M0143,2025-06-25,T15,Unplanned,Tires,36.1,8188
+M0144,2025-06-26,T04,Preventive,PM-A service,4.3,915
+M0145,2025-06-26,T26,Preventive,PM-B service,3.5,1232
+M0146,2025-06-27,T02,Preventive,PM-B service,5.8,466
+M0147,2025-06-27,T07,Preventive,PM-A service,3.8,733
+M0148,2025-06-27,T11,Preventive,Brake inspection,4.9,1296
+M0149,2025-06-27,T15,Preventive,PM-B service,3.6,1226
+M0150,2025-06-27,T29,Unplanned,Brakes,36.9,7863
+M0151,2025-06-28,T06,Preventive,PM-B service,5.2,723
+M0152,2025-06-28,T10,Preventive,PM-A service,3.9,1090
+M0153,2025-06-28,T17,Preventive,PM-A service,6.5,885
+M0154,2025-06-30,T06,Preventive,Brake inspection,4,555
+M0155,2025-06-30,T23,Unplanned,Tires,41,8383
+M0156,2025-07-01,T10,Preventive,Brake inspection,5.3,504
+M0157,2025-07-01,T28,Preventive,PM-A service,6.7,572
+M0158,2025-07-01,T29,Preventive,PM-A service,6.8,1345
+M0159,2025-07-02,T07,Preventive,PM-A service,4.2,814
+M0160,2025-07-02,T21,Preventive,PM-A service,5.6,834
+M0161,2025-07-03,T06,Unplanned,Aftertreatment (DPF),11.4,4649
+M0162,2025-07-03,T29,Preventive,PM-A service,3.9,855
+M0163,2025-07-04,T07,Preventive,PM-B service,4.5,985
+M0164,2025-07-04,T11,Unplanned,Brakes,17.7,5706
+M0165,2025-07-04,T26,Unplanned,Brakes,39.9,7991
+M0166,2025-07-04,T30,Preventive,PM-A service,6,534
+M0167,2025-07-05,T19,Preventive,PM-B service,5.1,879

@@ -1,0 +1,9 @@
+lane_id,origin,destination,distance_km,lane_type
+L1,"Toronto, ON","Montreal, QC",541,Domestic
+L2,"Toronto, ON","Ottawa, ON",450,Domestic
+L3,"Toronto, ON","Windsor, ON",370,Domestic
+L4,"Toronto, ON","Buffalo, NY",160,Cross-border
+L5,"Toronto, ON","Detroit, MI",375,Cross-border
+L6,"Toronto, ON","Sudbury, ON",390,Domestic
+L7,"Mississauga, ON","Brampton, ON",25,Local (GTA)
+L8,"Toronto, ON","Barrie, ON",95,Local (GTA)
