@@ -4,7 +4,7 @@
 
 > ⚠️ **Sample data.** All trucks, drivers, loads and maintenance records are **synthetic**, modelled on the kind of 30-truck fleet I dispatched and analyzed in fleet management (tracked in Samsara and TruckMate). No real company, customer or driver data is included.
 
-**Tools:** SQL (SQLite) · Excel
+**Tools:** SQL (SQLite)
 
 ---
 
