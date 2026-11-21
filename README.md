@@ -30,11 +30,11 @@ Full write-up: **[FINDINGS.md](FINDINGS.md)**
 
 ## Results
 
-### On-time delivery by week
+### On-time delivery by week (changes made at week 14)
 
 ```mermaid
 xychart-beta
-    title "On-time delivery % by week (changes made at week 14)"
+    title "On-time delivery % by week"
     x-axis [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
     y-axis "% on time" 60 --> 100
     line [77.2, 76.6, 78.8, 82.8, 78.8, 78.2, 77.3, 75.4, 78.7, 79.4, 79.0, 79.1, 70.5, 90.3, 89.1, 91.2, 91.5, 91.5, 89.0, 89.9, 92.0, 88.0, 92.3, 96.1, 90.6, 88.0]
