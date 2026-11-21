@@ -1,5 +1,7 @@
 # Fleet KPI Dashboard: 30-Truck Fleet
 
+![Tools: SQL (SQLite)](https://img.shields.io/badge/Tools-SQL%20%28SQLite%29-1F3A5F?style=flat-square) ![Domain: Fleet operations](https://img.shields.io/badge/Domain-Fleet%20operations-4A5568?style=flat-square) ![Data: Synthetic](https://img.shields.io/badge/Data-Synthetic-lightgrey?style=flat-square) ![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
+
 **Did re-sequencing dispatch schedules and starting a preventive-maintenance program improve on-time delivery and cut downtime?**
 
 > **Sample data.** All trucks, drivers, loads and maintenance records are **synthetic**, modelled on the kind of 30-truck fleet I dispatched and analyzed in fleet management (tracked in Samsara and TruckMate). No real company, customer or driver data is included.
